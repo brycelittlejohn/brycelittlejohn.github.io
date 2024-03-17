@@ -10,8 +10,8 @@ description: "Mailing and office addresses at the Illinois Institute of Technolo
 #### Mailing address
 
 Department of Physics  
-Illinois Institute of Technology  
 146A Robert A. Pritzker Science Center  
+Illinois Institute of Technology  
 Chicago, Illinois, 60616  
 
 ---
