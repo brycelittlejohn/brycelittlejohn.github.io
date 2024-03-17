@@ -13,9 +13,10 @@ menu:
     main:
         - name: Research Group
           url: group
+          weight: 1
         - name: Publications
           url: publications/
-          weight: 1
+          weight: 2
         #- name: Projects
         #  url: projects/
         #  weight: 2
@@ -61,10 +62,10 @@ params:
           imageHeight: 160
           imageTitle: Bryce Littlejohn
           buttons:
-            - name: Publications
-              url: publications/
             - name: Research Group
               url: group
+            - name: Publications
+              url: publications/
             #- name: Projects
             #  url: projects/
             - name: Tags
