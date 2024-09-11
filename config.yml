@@ -55,7 +55,7 @@ params:
             I'm an Associate Professor of Physics at the Illinois Institute of Technology.
 
             <br> <br>
-            I do cool Physics. Here’s a fun new LArTPC [result](https://arxiv.org/abs/2408.05133) from my group!
+            I do cool Physics. Here’s a fun new LArTPC <ins>[result](https://arxiv.org/abs/2408.05133)</ins> from my group!
             "
           imageUrl: "picture.jpg"
           imageWidth: 160
