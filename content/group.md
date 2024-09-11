@@ -36,4 +36,3 @@ My group's other effort is dedicated toward extending the capabilities of liquid
 + Nathan Rybicki
 + Efithia Giannoudakos
 
-+ 
